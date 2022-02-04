@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/llRootPermission"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="16.0dip"
+        android:layout_marginRight="16.0dip"
+        android:background="@color/transparent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title_permission"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25.0dip"
+            android:gravity="center"
+            android:text=""
+            android:textSize="@dimen/_14sdp" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_desc_permission"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="24.0dip"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text=""
+            android:textSize="@dimen/_11sdp" />
+
+        <LinearLayout
+            android:id="@+id/ll_icons_cnt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:orientation="horizontal" />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tv_additional_desc"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="24.0dip"
+            android:layout_marginRight="10dp"
+            android:gravity="center"
+            android:text=""
+            android:textSize="@dimen/_11sdp" />
+
+        <Button
+            android:id="@+id/btn_allow_permission"
+            android:layout_width="fill_parent"
+            android:layout_height="44dp"
+            android:layout_marginLeft="16.0dip"
+            android:layout_marginTop="12.0dip"
+            android:layout_marginRight="16.0dip"
+            android:layout_marginBottom="12.0dip"
+            android:background="@drawable/shape_btn_next"
+            android:gravity="center"
+            android:text="باشه"
+            android:textColor="@android:color/white"
+            android:textSize="16.0sp" />
+    </LinearLayout>
+</RelativeLayout>

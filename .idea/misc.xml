@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/bg_item_user.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/circle_radius_card_view.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/ic_plus.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/icon_loading.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/round_btn_gray.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/shape_btn_next.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/shape_round_border_rectangle_gray.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/drawable/shape_rounded_rectangle_white.xml" value="0.3828125" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/activity_main.xml" value="0.19114583333333332" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/bg_item_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/dialog_permission.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/fragment_bottom_sheet_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/fragment_current_weather.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/fragment_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/fragment_user_details.xml" value="0.20520833333333333" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/fragment_users.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/item_users.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/layout_toolbar.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/shape_rounded_rectangle_white.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/view_bottom_message.xml" value="0.36666666666666664" />
+        <entry key="..\:/myAndroidProjectExample/MyApp/app/src/main/res/layout/view_bottom_message_dialog.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
